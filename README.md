@@ -21,6 +21,7 @@
 | Linux    | ★★★★★ |  
 | SQL      | ★★★★★ |  
 | Nginx    | ★★★★★ |  
+| PLC      | ★★★★★ |  
 | Machine Learning | ★★★☆☆ |  
 
 - 20+ years programmer since junior high school
