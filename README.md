@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zjsxwc
-- 👀  🌱 💞️ 📫
+- - 20+ years programmer since junior high school
 
 ### 🌱 My skill and still learning:  
 
@@ -24,7 +24,6 @@
 | PLC      | ★★★★☆ |  
 | Machine Learning | ★★★☆☆ |  
 
-- 20+ years programmer since junior high school
 
 <!---
 zjsxwc/zjsxwc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
