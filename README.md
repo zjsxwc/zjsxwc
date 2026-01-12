@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zjsxwc
-- - 20+ years programmer since junior high school
+- 20+ years programmer since junior high school
 
 ### 🌱 My skill and still learning:  
 
